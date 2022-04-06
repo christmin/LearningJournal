@@ -1,0 +1,65 @@
+<div id="top"></div>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+
+<h3 align="center">Christmin's Learning Journal</h3>
+
+  <p align="center">
+  5 April 2022
+</div>
+
+     
+     
+
+
+
+<!-- ABOUT THE PROJECT -->
+## Day 2
+
+Today is day 2 of my apprenticeship with Activate Interactive. It is the first day of working from home and we are to continue with our 40 days react native training. We had a meeting in the afternoon to discuss about any problems we faced.
+Unfortunately, my react native starter project was not working and it took almost an entire day to resolve. Thankfully my mentors were really patient and helpful and we managed to resolve the issue by end of day.
+
+I also read up on Typescript in between searching for solutions for my issue with the starter project.
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- challenges -->
+## Challenges Faced
+<ol>
+  <li>React Native Starter Not Able to Build</li>
+</ol>
+
+
+
+
+<!-- solutions -->
+## Solutions
+
+- [ ] SReact Native Starter Not Able to Build: Combed through the internet for different solutions and tried many different methods until the project was able to build.
+
+
+
+<!-- CONTACT -->
+## Resources
+
+
+* <a href="https://docs.google.com/document/d/1xVfj6FU5U66KOUrjjZkWJ3uAaclqmt_RvZVPtJvKo6w/">Day 2: React Native basics and Typescript Basics Part 1
+</a>
+* <a href="https://docs.google.com/document/d/1X1WgRPKxWwenKXswD5xHcuEZ4NFRj8EWmkCC8MLsBwg/">React Native Learning Schedule</a>
+
+
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+* Thank you to my mentors Anya & Janan for patiently assisting me to find solutions for the issue
+* <a href="https://github.com/othneildrew/Best-README-Template">Othneil Drew</a> for this Template
+
+
+
+
+
